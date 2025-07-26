@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building scalable backend services and APIs using Node.js and Express.js.<br><br>👯 Full-stack or backend-heavy projects, especially those involving databases or RESTful APIs.<br><br>🤝 Improving my system design skills and exploring microservices architecture.<br><br>🌱 Docker, Kubernetes, and GraphQL to level up my backend development skills.<br><br>💬 Backend development, REST APIs, database optimization, and Node.js best practices.<br><br>⚡ I enjoy optimizing database queries like solving puzzles – fast and clean!
+🔭 Building scalable backend services and APIs using Node.js and Express.js.<br>👯 Full-stack or backend-heavy projects, especially those involving databases or RESTful APIs.<br>🤝 Improving my system design skills and exploring microservices architecture.<br>🌱 Docker, Kubernetes, and GraphQL to level up my backend development skills.<br>💬 Backend development, REST APIs, database optimization, and Node.js best practices.<br>⚡ I enjoy optimizing database queries like solving puzzles – fast and clean!
 
 
 ## 🌐 Socials:
